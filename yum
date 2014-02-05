@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Yummy things with Nafiza!</title>
+    <meta charset="utf-8">
+    <link href="css/yum.css" type="text/css" rel="stylesheet" />
+</head>
+<body>
+    <section id="layout">
+        <img src="" alt="Simple Adobe Illustrator flower in a pot, falling because of the weather">
+    </section>
+    <section id="content">
+        <section id="Introduction">
+            <p>Welcome to <em>Yummy things with Nafiza!</em>
+            The purpose of this one-pager is to show you various ways to use simple
+            ingredients to enhance your food/meals! I'll try to keep the ingredients
+            minimal for all the delightful things we'll make!
+
+            I think the special ingredients will be:
+            Chocolate & Strawberries
+            <img src="" alt="Godiva chocolate bar squares"> <img src="" alt="A cute little red strawberry">
+
+            Our aim is to make the following:</p>
+            <a href="#Breakfast">Breakfast</a>: Pancakes with chocolate bits, topped with strawberry sauce
+                tips: add frozen yogurt or ice cream on top,
+                      make waffles instead; they are crispier than pancakes and
+                        can hold more sauce/ice-cream!
+            Lunch: Truffle sandwich -- literally just: Bread. Truffle. Toast. Eat.
+                tip: add sliced banana and strawberries to add flavor/texture
+            Dinner: Godiva liquor infused and chocolate covered strawberries,
+                      with a salty/spicy strawberry chili salad
+                tip: take the liquor infused strawberry and do chocolate coating
+            </p>
+        </section>
+        <section id="Breakfast">
+
+        </section>
+    </section>
+</body>
+</html>
