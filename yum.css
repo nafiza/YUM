@@ -17,13 +17,13 @@ h1, h2, h3
     text-align: center;
     text-transform: uppercase;
     font-family: Garamond;
-    color: white;
-    background-color: gray;
-    text-shadow: -1px -1px white;
     }
 h1
     {
     font-size: 300%;
+    color: white;
+    background-color: gray;
+    text-shadow: -1px -1px white;
     }
 
 h2
