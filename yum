@@ -1,16 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Yummy things with Nafiza!</title>
+    <title>YUM! - with Nafiza!</title>
     <meta charset="utf-8">
     <link href="css/yum.css" type="text/css" rel="stylesheet" />
 </head>
 <body>
     <section id="layout">
-        <img src="" alt="Simple Adobe Illustrator image of a happy cloud emoticon saying 'YUM!'">
     </section>
     <section id="content">
         <section id="Introduction">
+            <h1>Introduction</h1>
             <p>Welcome to <em>Yummy things with Nafiza!</em>
             The purpose of this one-pager is to show you various ways to use simple
             ingredients to enhance your food/meals! I'll try to keep the ingredients
@@ -25,23 +25,32 @@
                 tips: |.| add frozen yogurt or ice cream on top,
                       |.| make waffles instead; they are crispier than pancakes and
                           can hold more sauce/ice-cream!
-            Lunch: Truffle sandwich -- literally just: Bread. Truffle. Toast. Eat.
+            <a href="Lunch">Lunch</a>: Truffle sandwich -- literally just: Bread. Truffle. Toast. Eat.
                 tip: add sliced banana and strawberries to add flavor/texture
-            Dinner: Godiva liquor infused and chocolate covered strawberries,
+            <a href="Dinner">Dinner</a>: Godiva liquor infused and chocolate covered strawberries,
                       with a salty/spicy strawberry chili salad
                 tip: take the liquor infused strawberry and do chocolate coating
             </p>
         </section>
+        
         <section id="Breakfast">
-            <ul><h3>Ingredients:<h3>
+            <h1>Breakfast</h1>
+            <h3>Pancakes with Chocolate Bits and Strawberry Puree</h3>
+            <h4>Ingredients:<h4>
+            <ul>
             <li>Pancake Mix (Aunt Jemima's) or make your own batter!</li>
             <li>Washed and stemmed strawberries</li>
             <li>Brown Sugar</li>
-            <li> Butter or vegetable oil for frying</li>
+            <li>Butter or vegetable oil for frying</li>
             <li>Truffles, or cubes of chocolate, cut into chunks</li>
+            <li><p><strong>Notes:</strong> The portions you use may/will vary depending on how
+            many you are trying to serve (and how much you can eat). For every two  
+            people, I'd recommend: 1 cup of mix, dozen strawberries, half cup of
+            sugar, 2 table spoons of oil max, and 6 truffles. You should vary this
+            depending on how sweet or unsweet you like you pancakes.</p>
             </ul>
             <ol>
-            <h3>Directions:<h3>
+            <h4>Directions:<h4>
             <li><p>Use mix as instructed to make a batter; usually you combine the dry 
             mix in water and/or egg. For every cup of pancake mix, add 3tbs of brown
             sugar. <em>Do not</en> use pancake mix for waffles!</p></li>
@@ -58,6 +67,55 @@
             Graham cracker pie crust. Just kidding, you can choose whatever you want!</p></li>
             </ol>
         </section>
+        
+        <section id="Lunch">
+        <h1>Lunch</h1>
+        <h3>Truffle Toast</h3>
+        <h4>Ingredients:<h4>
+        <ul>
+        <li>Bread, sliced (I like to use Italian, French or Multigrain)</li>
+        <li>Truffles or chocolate bar cubes</li>
+        <li><p><strong>Notes</strong>: Use as many slices of bread, and pieces of chocolate as you want!
+        I usually use 2 truffles or 1 chocolate cube per peice of bread, and fold
+        that in half to make a sandwhich/smush the melted chocolate!</li>
+        </ul>
+        <h4>Directions - Toaster Oven Method:</h4>
+        <ol>
+        <li>Place bread slice in toaster oven, with 2 truffles sitting on the bread</li>
+        <li><p>Turn toaster oven on medium heat (nothing to high because it'll 
+        dry out the chocolate)<p></li>
+        <li><p>When toasting is complete, remove bread slice with softentened 
+        chocolate, and either use a knife to spread the chocolate, or fold bread
+        in half to smush it</p></li
+        <li><p><strong>Notes</strong>: If you do fold the bread in half, be careful if the bread has
+        holes, because the warm melted chocolate will seep through! (Yum!)
+        If you are adding sliced strawberries and bananas, I'd add them after
+        they've already been removed from the toaster, as I hate soggy/cooked
+        fruit and it stays put once the chocolate is all melty.</p></li>
+        </ol>
+        <h4>Directions - Pan Method:</h4>
+        <ol>
+        <li>On a medium skillet, heat a spoonful of butter, or oil</li>
+        <li>Toast both sides until it begins to brown</li>
+        <li><p>Place 2 truffles on one slice of bread, not too close to one another 
+        or the edge of the bread.<li>
+        <li><p>When truffle begins to melt, place other slice of bread on top of truffles
+        and press down gently with your fingers (caution: hot) or a spatchula</p><li>
+        <li><p>Remove from Pan when the chocolate is dispersed and the pieces of
+        bread sit nicely on top of one another</p></li>
+        <li><p><strong>Notes</strong>: If you are adding fruit, do it between step 3 and step 4.
+        You'll have to spread the softened truffles, then add fruit, then place the
+        second piece of bread on top of it. OR, you can finish step 4, remove
+        the top piece of bread (if you put it back on the pan, make sure the chocolate
+        side is up!), then add fruit (distribute evenly), then place the bread on 
+        top again (chocolate side down/directly on fruit). Then smush/spatchula/etc.</p></li>
+        </ol>
+        </section>
+        
+        <section id="Dinner">
+        <h1>Dinner</h1>
+        </section>
+        
     </section>
 </body>
 </html>
