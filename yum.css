@@ -1,24 +1,39 @@
 @font-face
     {
-    font-family: "Cambria";
+    font-family: Garamond, Trebuchet;
     }
 
 body
     {
-    font-family: "Trebuchet MS";
+    font-family: Trebuchet;
     font-size: 11pt;
     background-color: white;
     margin: 2%;
     color: black;
     }
 
-h1
+h1, h2, h3
     {
     text-align: center;
-    font-family: "Cambria";
-    font-size: 200%;
+    text-transform: uppercase;
+    font-family: Garamond;
     color: white;
     background-color: gray;
+    text-shadow: -1px -1px white;
+    }
+h1
+    {
+    font-size: 300%;
+    }
+
+h2
+    {
+    font-size: 250%;
+    }
+
+h3
+    {
+    font size: 200%;
     }
 
 #content
@@ -31,7 +46,8 @@ h1
 
 #layout
     {
-    position: fixed;
-    right: 0;
-    bottom: 0;
+    background-image: url("https://drive.google.com/file/d/0B3RBQl8PVNA7U0JEV1hJbkp1QmM/edit?usp=sharing");
+    background-repeat: no-repeat;
+    background-attachment: no-repeat;
+    background-position: right bottom;
     }
