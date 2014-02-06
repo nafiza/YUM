@@ -22,9 +22,9 @@
 
             Our aim is to make the following:</p>
             <a href="#Breakfast">Breakfast</a>: Pancakes with chocolate bits, topped with strawberry sauce
-                tips: add frozen yogurt or ice cream on top,
-                      make waffles instead; they are crispier than pancakes and
-                        can hold more sauce/ice-cream!
+                tips: |.| add frozen yogurt or ice cream on top,
+                      |.| make waffles instead; they are crispier than pancakes and
+                          can hold more sauce/ice-cream!
             Lunch: Truffle sandwich -- literally just: Bread. Truffle. Toast. Eat.
                 tip: add sliced banana and strawberries to add flavor/texture
             Dinner: Godiva liquor infused and chocolate covered strawberries,
@@ -33,6 +33,10 @@
             </p>
         </section>
         <section id="Breakfast">
+            <ul><strong>Ingredients:</strong></ul>
+            <li><p>Aunt Jemima's Pancake Mix or make your own batter!
+                (Use mix as instructed, do not use this mix for waffles!)</p></li>
+            <li></li>
 
         </section>
     </section>
