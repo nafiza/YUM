@@ -32,7 +32,7 @@
                 <p><em>tip:</em> |.| take the liquor infused strawberry and do chocolate coating</p>
         </section>
         <hr />
-        
+
         <section id="Breakfast">
             <h1>Breakfast</h1>
             <h3>Pancakes with Chocolate Bits and Strawberry Puree</h3>
@@ -74,7 +74,7 @@
                 </ol>
         </section>
         <hr />
-        
+
         <section id="Lunch">
             <h1>Lunch</h1>
             <h3>Truffle Toast</h3>
@@ -119,7 +119,7 @@
                 </ol>
         </section>
         <hr />
-        
+
         <section id="Dinner">
         <h1>Dinner</h1>
         <h3>Liquor Infused Strawberries Covered in Chocolate, and Strawberry Salad</h3>
@@ -149,13 +149,13 @@
             </ol>
         <p></p>
         <h2>Salty/Spicy Strawberry Salad</h2>
-        <h3>Ingredients</h3>
+        <h4>Ingredients:</h4>
             <ul>
                 <li>Salt (any kind, fine works best though)</li>
                 <li>Chili peppers</li>
                 <li>Strawberries, washed, stemmed, and thinly sliced</li>
             </ul>
-        <h3>Directions</h3>
+        <h4>Directions:</h4>
             <ol>
                 <li>Cut up chili peppers, then smash so that the juices have come out</li>
                 <li><p>Take a pinch of salt for every handful of strawberries, rub gently
@@ -167,7 +167,7 @@
             </ol>
         </section>
         <hr />
-        
+
     </section>
 </body>
 </html>
