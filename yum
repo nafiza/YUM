@@ -10,112 +10,115 @@
     </section>
     <section id="content">
         <section id="Introduction">
-            <h1>Introduction</h1>
-            <p>Welcome to <em>Yummy things with Nafiza!</em>
-            The purpose of this one-pager is to show you various ways to use simple
+            <h1>YUM - with Nafiza</h1>
+            <h3>Introduction</h3>
+            <p>Welcome to <em>Yummy things with Nafiza!</em></p>
+            <p>The purpose of this one-pager is to show you various ways to use simple
             ingredients to enhance your food/meals! I'll try to keep the ingredients
-            minimal for all the delightful things we'll make!
-
-            I think the special ingredients will be:
-            <img src="https://drive.google.com/file/d/0B3RBQl8PVNA7SEVsNjhFbWtDRlE/edit?usp=sharing" 
-            alt="Godiva chocolate bar squares and strawberry" align="center">
-            Chocolate & Strawberries</p>
+            minimal for all the delightful things we'll make!</p>
+            <p></p>
+            <p>I think the special ingredients will be:</p>
+            <p><img src="https://drive.google.com/file/d/0B3RBQl8PVNA7SEVsNjhFbWtDRlE/edit?usp=sharing"
+            alt="Godiva chocolate bar squares and strawberry" align="center"></p>
             <p>Our aim is to make the following:</p>
-            <p><a href="#Breakfast">Breakfast</a>: Pancakes with chocolate bits, topped with strawberry sauce
-                tips: |.| add frozen yogurt or ice cream on top,
-                      |.| make waffles instead; they are crispier than pancakes and
+            <p><a href="#Breakfast"><strong>Breakfast</strong></a>: Pancakes with chocolate bits, topped with strawberry sauce</p>
+                <p><em>tip:</em> |.| add frozen yogurt or ice cream on top,</p>
+                <p><em>tip:</em> |.| make waffles instead; they are crispier than pancakes and
                           can hold more sauce/ice-cream!</p>
-            <p><a href="Lunch">Lunch</a>: Truffle sandwich -- literally just: Bread. Truffle. Toast. Eat.
-                tip: |.| add sliced banana and strawberries to add flavor/texture</p>
-            <p><a href="Dinner">Dinner</a>: Godiva liquor infused and chocolate covered strawberries,
-                      with a salty/spicy strawberry chili salad
-                tip: |.| take the liquor infused strawberry and do chocolate coating</p>
+            <p><a href="#Lunch"><strong>Lunch</strong></a>: Truffle sandwich -- literally just: Bread. Truffle. Toast. Eat.
+                <p><em>tip:</em> |.| add sliced banana and strawberries to add flavor/texture</p>
+            <p><a href="#Dinner"><strong>Dinner</strong></a>: Godiva liquor infused and chocolate covered strawberries,
+                      with a salty/spicy strawberry chili salad</p>
+                <p><em>tip:</em> |.| take the liquor infused strawberry and do chocolate coating</p>
         </section>
+        <hr />
         
         <section id="Breakfast">
             <h1>Breakfast</h1>
             <h3>Pancakes with Chocolate Bits and Strawberry Puree</h3>
-            <h4>Ingredients:<h4>
-            <ul>
-            <li>Pancake Mix (Aunt Jemima's) or make your own batter!</li>
-            <li>Washed and stemmed strawberries</li>
-            <li>Brown Sugar</li>
-            <li>Butter or vegetable oil for frying</li>
-            <li>Truffles, or cubes of chocolate, cut into chunks</li>
-            <li><p><strong>Portioning Notes</strong>: The portions you use may/will vary depending on how
-            many you are trying to serve (and how much you can eat). For every two  
-            people, I'd recommend: 1 cup of mix, dozen strawberries, half cup of
-            sugar, 2 table spoons of oil max, and 6 truffles. You should vary this
-            depending on how sweet or unsweet you like you pancakes.</p></li>
-            <li><p><strong>General Notes</strong>: If you want to spice up your pancake, and give it
-            more dynamic, you can add a half a teaspoon - a teaspoon of vanilla
-            extract and a bit of cinnamon into the batter. I like to taste the raw
-            cinnamon powder to get a sense of its strength before putting it in.
-            If you have raw cinnamon sticks that you are grounding, I usually
-            ground half the portion because that tends to be a little stronger.</p></li>
-            </ul>
-            <ol>
-            <h4>Directions:<h4>
-            <li><p>Use mix as instructed to make a batter; usually you combine the dry 
-            mix in water and/or egg. For every cup of pancake mix, add 3tbs of brown
-            sugar. <em>Do not</em> use pancake mix for waffles!</p></li>
-            <li> Add chunks or cubes of chocolate into the pancake mix/batter</li>
-            <li> Mix until chocolate is dispersed and batter is not too thick</li>
-            <li><p>On a skillet, heat butter or oil on medium heat. Then pour or
-            use a ladle to add mixture into skillet in the size/shape you desire.</li>
-            <li>While pancakes are cooking, mash or puree (in a blender) strawberries</li>
-            <li>If you wish, add a sweetener to strawberry puree and mix thoroughly</li>
-            <li>Flip pancake once it has reached desired color</li>
-            <li><p>Once both sides of pancake are cooked, plate the pancakes with the
-            strawberry puree on top. If you wish, you can have it with a side of ice
-            cream or frozen yogurt! Preferably Cold Stone strawberry ice cream with
-            Graham cracker pie crust. Just kidding, you can choose whatever you want!</p></li>
-            </ol>
+            <h4>Ingredients:</h4>
+                <ul>
+                    <li>Pancake Mix (Aunt Jemima's) or make your own batter!</li>
+                    <li>Washed and stemmed strawberries</li>
+                    <li>Brown Sugar</li>
+                    <li>Butter or vegetable oil for frying</li>
+                    <li>Truffles, or cubes of chocolate, cut into chunks</li>
+                    <li><p><strong>Portioning Notes</strong>: The portions you use may/will vary depending on how
+                    many you are trying to serve (and how much you can eat). For every two
+                    people, I'd recommend: 1 cup of mix, dozen strawberries, half cup of
+                    sugar, 2 table spoons of oil max, and 6 truffles. You should vary this
+                    depending on how sweet or unsweet you like you pancakes.</p></li>
+                    <li><p><strong>General Notes</strong>: If you want to spice up your pancake, and give it
+                    more dynamic, you can add a half a teaspoon - a teaspoon of vanilla
+                    extract and a bit of cinnamon into the batter. I like to taste the raw
+                    cinnamon powder to get a sense of its strength before putting it in.
+                    If you have raw cinnamon sticks that you are grounding, I usually
+                    ground half the portion because that tends to be a little stronger.</p></li>
+                </ul>
+            <h4>Directions:</h4>
+                <ol>
+                    <li><p>Use mix as instructed to make a batter; usually you combine the dry
+                    mix in water and/or egg. For every cup of pancake mix, add 3tbs of brown
+                    sugar. <em>Do not</em> use pancake mix for waffles!</p></li>
+                    <li> Add chunks or cubes of chocolate into the pancake mix/batter</li>
+                    <li> Mix until chocolate is dispersed and batter is not too thick</li>
+                    <li><p>On a skillet, heat butter or oil on medium heat. Then pour or
+                    use a ladle to add mixture into skillet in the size/shape you desire.</li>
+                    <li>While pancakes are cooking, mash or puree (in a blender) strawberries</li>
+                    <li>If you wish, add a sweetener to strawberry puree and mix thoroughly</li>
+                    <li>Flip pancake once it has reached desired color</li>
+                    <li><p>Once both sides of pancake are cooked, plate the pancakes with the
+                    strawberry puree on top. If you wish, you can have it with a side of ice
+                    cream or frozen yogurt! Preferably Cold Stone strawberry ice cream with
+                    Graham cracker pie crust. Just kidding, you can choose whatever you want!</p></li>
+                </ol>
         </section>
+        <hr />
         
         <section id="Lunch">
-        <h1>Lunch</h1>
-        <h3>Truffle Toast</h3>
-        <h4>Ingredients:<h4>
-        <ul>
-        <li>Bread, sliced (I like to use Italian, French or Multigrain)</li>
-        <li>Truffles or chocolate bar cubes</li>
-        <li><p><strong>Notes</strong>: Use as many slices of bread, and pieces of chocolate as you want!
-        I usually use 2 truffles or 1 chocolate cube per peice of bread, and fold
-        that in half to make a sandwhich/smush the melted chocolate!</li>
-        </ul>
-        <h4>Directions - Toaster Oven Method:</h4>
-        <ol>
-        <li>Place bread slice in toaster oven, with 2 truffles sitting on the bread</li>
-        <li><p>Turn toaster oven on medium heat (nothing to high because it'll 
-        dry out the chocolate)<p></li>
-        <li><p>When toasting is complete, remove bread slice with softentened 
-        chocolate, and either use a knife to spread the chocolate, or fold bread
-        in half to smush it</p></li
-        <li><p><strong>Notes</strong>: If you do fold the bread in half, be careful if the bread has
-        holes, because the warm melted chocolate will seep through! (Yum!)
-        If you are adding sliced strawberries and bananas, I'd add them after
-        they've already been removed from the toaster, as I hate soggy/cooked
-        fruit and it stays put once the chocolate is all melty.</p></li>
-        </ol>
-        <h4>Directions - Pan Method:</h4>
-        <ol>
-        <li>On a medium skillet, heat a spoonful of butter, or oil</li>
-        <li>Toast both sides until it begins to brown</li>
-        <li><p>Place 2 truffles on one slice of bread, not too close to one another 
-        or the edge of the bread.<li>
-        <li><p>When truffle begins to melt, place other slice of bread on top of truffles
-        and press down gently with your fingers (caution: hot) or a spatchula</p><li>
-        <li><p>Remove from Pan when the chocolate is dispersed and the pieces of
-        bread sit nicely on top of one another</p></li>
-        <li><p><strong>Notes</strong>: If you are adding fruit, do it between step 3 and step 4.
-        You'll have to spread the softened truffles, then add fruit, then place the
-        second piece of bread on top of it. OR, you can finish step 4, remove
-        the top piece of bread (if you put it back on the pan, make sure the chocolate
-        side is up!), then add fruit (distribute evenly), then place the bread on 
-        top again (chocolate side down/directly on fruit). Then smush/spatchula/etc.</p></li>
-        </ol>
+            <h1>Lunch</h1>
+            <h3>Truffle Toast</h3>
+            <h4>Ingredients:</h4>
+                <ul>
+                    <li>Bread, sliced (I like to use Italian, French or Multigrain)</li>
+                    <li>Truffles or chocolate bar cubes</li>
+                    <li><p><strong>Notes</strong>: Use as many slices of bread, and pieces of chocolate as you want!
+                    I usually use 2 truffles or 1 chocolate cube per piece of bread, and fold
+                    that in half to make a sandwhich/smush the melted chocolate!</li>
+                </ul>
+            <h4>Directions - Toaster Oven Method:</h4>
+                <ol>
+                    <li>Place bread slice in toaster oven, with 2 truffles sitting on the bread</li>
+                    <li><p>Turn toaster oven on medium heat (nothing to high because it'll
+                    dry out the chocolate)<p></li>
+                    <li><p>When toasting is complete, remove bread slice with softened
+                    chocolate, and either use a knife to spread the chocolate, or fold bread
+                    in half to smush it</p></li>
+                    <li><p><strong>Notes</strong>: If you do fold the bread in half, be careful if the bread has
+                    holes, because the warm melted chocolate will seep through! (Yum!)
+                    If you are adding sliced strawberries and bananas, I'd add them after
+                    they've already been removed from the toaster, as I hate soggy/cooked
+                    fruit and it stays put once the chocolate is all melty.</p></li>
+                </ol>
+            <h4>Directions - Pan Method:</h4>
+                <ol>
+                    <li>On a medium skillet, heat a spoonful of butter, or oil</li>
+                    <li>Toast both sides until it begins to brown</li>
+                    <li><p>Place 2 truffles on one slice of bread, not too close to one another
+                    or the edge of the bread.</li>
+                    <li><p>When truffle begins to melt, place other slice of bread on top of truffles
+                    and press down gently with your fingers (caution: hot) or a spatula</p></li>
+                    <li><p>Remove from Pan when the chocolate is dispersed and the pieces of
+                    bread sit nicely on top of one another</p></li>
+                    <li><p><strong>Notes</strong>: If you are adding fruit, do it between step 3 and step 4.
+                    You'll have to spread the softened truffles, then add fruit, then place the
+                    second piece of bread on top of it. OR, you can finish step 4, remove
+                    the top piece of bread (if you put it back on the pan, make sure the chocolate
+                    side is up!), then add fruit (distribute evenly), then place the bread on
+                    top again (chocolate side down/directly on fruit). Then smush/spatchula/etc.</p></li>
+                </ol>
         </section>
+        <hr />
         
         <section id="Dinner">
         <h1>Dinner</h1>
@@ -123,46 +126,47 @@
         <p></p>
         <h2>Chocolate Covered Liquored Strawberries</h2>
         <h4>Ingredients:</h4>
-        <ul>
-        <li>Strawberries, washed, stemmed (keep the step for holding, if you want)</li>
-        <li>Godiva Chocolate Liquor</li>
-        <li>Chocolate truffles or chocolate bar cubes</li>
-        </ul>
+            <ul>
+                <li>Strawberries, washed, stemmed (keep the step for holding, if you want)</li>
+                <li>Godiva Chocolate Liquor</li>
+                <li>Chocolate truffles or chocolate bar cubes</li>
+            </ul>
         <h4>Directions:</h4>
-        <ol>
-        <li>Fill food-injection-thingy with the Godiva chocolate liquor</li>
-        <li>Inject strawberries with desired amount (don't overdo it though)</li>
-        <li>Leave injected strawberries overnight in the fridge, or for a few hours</li>
-        <li><p>When strawberries have chilled, leave out for half an hour, then
-        begin to melt the chocolate. You can melt the chocolate/truffles in a pan
-        OR... take a candle oil burner and melt chocolates on small ceramic plate
-        that can sit on top of the candle burner (do not melt chocolate in the
-        same thing you burn oils on, that's a no-no). Place truffles onto plate
-        and watch carefully as it begins to melt/soften.</p></li>
-        <li><p>When chocolate has melted, drip strawberries into chocolate,
-        remove from the chocolate and let the air harden the chocolate that
-        molded onto the strawberry, then dip again to cover the rest. Repeat
-        process until strawberry is covered in chocolate</p></li>
-        </ol>
+            <ol>
+                <li>Fill food-injection-thingy with the Godiva chocolate liquor</li>
+                <li>Inject strawberries with desired amount (don't overdo it though)</li>
+                <li>Leave injected strawberries overnight in the fridge, or for a few hours</li>
+                <li><p>When strawberries have chilled, leave out for half an hour, then
+                begin to melt the chocolate. You can melt the chocolate/truffles in a pan
+                OR... take a candle oil burner and melt chocolates on small ceramic plate
+                that can sit on top of the candle burner (do not melt chocolate in the
+                same thing you burn oils on, that's a no-no). Place truffles onto plate
+                and watch carefully as it begins to melt/soften.</p></li>
+                <li><p>When chocolate has melted, drip strawberries into chocolate,
+                remove from the chocolate and let the air harden the chocolate that
+                molded onto the strawberry, then dip again to cover the rest. Repeat
+                process until strawberry is covered in chocolate</p></li>
+            </ol>
         <p></p>
         <h2>Salty/Spicy Strawberry Salad</h2>
         <h3>Ingredients</h3>
-        <ul>
-        <li>Salt (any kind, fine works best though)</li>
-        <li>Chili peppers</li>
-        <li>Strawberries, washed, stemmed, and thinly sliced</li>
-        </ul>
+            <ul>
+                <li>Salt (any kind, fine works best though)</li>
+                <li>Chili peppers</li>
+                <li>Strawberries, washed, stemmed, and thinly sliced</li>
+            </ul>
         <h3>Directions</h3>
-        <ol>
-        <li>Cut up chili peppers, then smash so that the juices have come out</li>
-        <li><p>Take a pinch of salt for every handful of strawberries, rub gently
-        onto the strawberry slices</p></li>
-        <li>Mix chili peppers into salted strawberry mix</li>
-        <li><p><strong>Notes</strong>: If you happen to have some fresh mint or cilantro,
-        you can finely chop it up and add it to the mix to add flavor. If you
-        add these, make sure to wash thoroughly before chopping!</p></li>
-        </ol>
+            <ol>
+                <li>Cut up chili peppers, then smash so that the juices have come out</li>
+                <li><p>Take a pinch of salt for every handful of strawberries, rub gently
+                onto the strawberry slices</p></li>
+                <li>Mix chili peppers into salted strawberry mix</li>
+                <li><p><strong>Notes</strong>: If you happen to have some fresh mint or cilantro,
+                you can finely chop it up and add it to the mix to add flavor. If you
+                add these, make sure to wash thoroughly before chopping!</p></li>
+            </ol>
         </section>
+        <hr />
         
     </section>
 </body>
