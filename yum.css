@@ -61,8 +61,15 @@ h4
 
 #layout
     {
-    background-image: url("https://drive.google.com/file/d/0B3RBQl8PVNA7U0JEV1hJbkp1QmM/edit?usp=sharing");
+    background-image: url("http://farm4.staticflickr.com/3805/12425440874_b8c6b5cba1_o.png");
     background-repeat: no-repeat;
     background-attachment: no-repeat;
     background-position: right bottom;
+    }
+
+#introduction img
+    {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
     }
