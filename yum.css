@@ -7,13 +7,17 @@
     }
 
 body
-    {
+{
     font-family: Trebuchet;
     font-size: 11pt;
     background-color: white;
     margin: 2%;
     color: black;
-    }
+    background-image: url("http://farm4.staticflickr.com/3805/12425440874_b8c6b5cba1_o.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: right bottom;
+}
 
 h1, h2
     {
@@ -57,25 +61,26 @@ h4
     }
 
 #content
-    {
-    height: 80%;
+{
     width: 75%;
+    max-width: 700px;
     margin-left: 5%;
-    }
+    overflow: hidden;
+}
 
 #layout
-    {
-    background-image: url("http://farm4.staticflickr.com/3805/12425440874_b8c6b5cba1_o.png");
-    background-repeat: no-repeat;
-    background-attachment: no-repeat;
-    background-position: right bottom;
-    }
+{
+
+}
+
+
 
 img
-    {
+{
     display: block;
     margin: auto;
-    }
+    width: 100%;
+}
 
 hr
 	{
