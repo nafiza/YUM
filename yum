@@ -4,9 +4,7 @@
     <title>YUM! - with Nafiza!</title>
     <meta charset="utf-8">
     <link href="yum.css" type="text/css" rel="stylesheet" />
-<style type="text/css">
-@import url("css.css");
-</style></head>
+</head>
 <body>
     <section id="layout">
         <section id="content">
