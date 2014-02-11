@@ -4,15 +4,17 @@
     <title>YUM! - with Nafiza!</title>
     <meta charset="utf-8">
     <link href="yum.css" type="text/css" rel="stylesheet" />
-</head>
+<style type="text/css">
+@import url("css.css");
+</style></head>
 <body>
-    <section id="layout">
+<section id="layout">
     </section>
     <section id="content">
         <section id="Introduction">
             <img src="http://farm8.staticflickr.com/7388/12425440634_909dfef9a3_b.jpg"
             alt="Banner, top, Yum! with Nafiza">
-            <h3>Introduction</h3>
+            <h2>Introduction</h2>
             <p>Welcome to <em>Yummy things with Nafiza!</em></p>
             <p>The purpose of this one-pager is to show you various ways to use simple
             ingredients to enhance your food/meals! I'll try to keep the ingredients
@@ -37,7 +39,7 @@
 
         <section id="Breakfast">
             <h1>Breakfast</h1>
-            <h3>Pancakes with Chocolate Bits and Strawberry Puree</h3>
+            <h2>Pancakes with Chocolate Bits and Strawberry Puree</h2>
             <h4>Ingredients:</h4>
                 <ul>
                     <li>Pancake Mix (Aunt Jemima's) or make your own batter!</li>
@@ -64,7 +66,7 @@
                     sugar. <em>Do not</em> use pancake mix for waffles!</li>
                     <li> Add chunks or cubes of chocolate into the pancake mix/batter</li>
                     <li> Mix until chocolate is dispersed and batter is not too thick</li>
-                    <li><p>On a skillet, heat butter or oil on medium heat. Then pour or
+                    <li>On a skillet, heat butter or oil on medium heat. Then pour or
                     use a ladle to add mixture into skillet in the size/shape you desire.</li>
                     <li>While pancakes are cooking, mash or puree (in a blender) strawberries</li>
                     <li>If you wish, add a sweetener to strawberry puree and mix thoroughly</li>
@@ -81,7 +83,7 @@
 
         <section id="Lunch">
             <h1>Lunch</h1>
-            <h3>Truffle Toast</h3>
+            <h2>Truffle Toast</h2>
             <h4>Ingredients:</h4>
                 <ul>
                     <li>Bread, sliced (I like to use Italian, French or Multigrain)</li>
@@ -93,8 +95,8 @@
             <h4>Directions - Toaster Oven Method:</h4>
                 <ol>
                     <li>Place bread slice in toaster oven, with 2 truffles sitting on the bread</li>
-                    <li><p>Turn toaster oven on medium heat (nothing to high because it'll
-                    dry out the chocolate)<p></li>
+                    <li>Turn toaster oven on medium heat (nothing to high because it'll
+                    dry out the chocolate)</li>
                     <li>When toasting is complete, remove bread slice with softened
                     chocolate, and either use a knife to spread the chocolate, or fold bread
                     in half to smush it</li>
@@ -108,7 +110,7 @@
                 <ol>
                     <li>On a medium skillet, heat a spoonful of butter, or oil</li>
                     <li>Toast both sides until it begins to brown</li>
-                    <li><p>Place 2 truffles on one slice of bread, not too close to one another
+                    <li>Place 2 truffles on one slice of bread, not too close to one another
                     or the edge of the bread.</li>
                     <li>When truffle begins to melt, place other slice of bread on top of truffles
                     and press down gently with your fingers (caution: hot) or a spatula</li>
@@ -156,8 +158,10 @@
                 strawberries are coated in chocolate using this method:</li>
             </ol>
             <p></p>
-            <p><iframe width="560" height="315" src="//www.youtube.com/embed/vFvJkhaA9_o"
-            frameborder="0" align="center" allowfullscreen></iframe></p>
+            <p>
+              <iframe width="560" height="315" src="//www.youtube.com/embed/vFvJkhaA9_o"
+            frameborder="0" align="center" allowfullscreen></iframe>
+            </p>
         <p></p>
         <h2>Salty/Spicy Strawberry Salad</h2>
         <h4>Ingredients:</h4>
