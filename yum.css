@@ -31,7 +31,7 @@ h1
     {
     font-size: 300%;
     color: white;
-    background-color: red;
+    background-color: #900;
     text-shadow: -1px -1px white;
     }
 
@@ -80,6 +80,6 @@ img
 hr
 	{
 	border-style:solid;
-	border-color:red;
+	border-color:#900;
 	border-width: 5px;
 	}
