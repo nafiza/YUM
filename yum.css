@@ -31,7 +31,7 @@ h1
     {
     font-size: 300%;
     color: white;
-    background-color: gray;
+    background-color: red;
     text-shadow: -1px -1px white;
     }
 
@@ -71,9 +71,15 @@ h4
     background-position: right bottom;
     }
 
-#introduction img
+img
     {
     display: block;
-    margin-left: auto;
-    margin-right: auto
+    margin: auto;
     }
+
+hr
+	{
+	border-style:solid;
+	border-color:red;
+	border-width: 5px;
+	}
