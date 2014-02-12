@@ -3,87 +3,81 @@
 
 @font-face
     {
-    font-family: Garamond, Trebuchet;
+    	font-family: Garamond, Trebuchet, Helvetica;
     }
-
+	
 body
-{
-    font-family: Trebuchet;
-    font-size: 11pt;
-    background-color: white;
-    margin: 2%;
-    color: black;
-    background-image: url("http://farm4.staticflickr.com/3805/12425440874_b8c6b5cba1_o.png");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: right bottom;
-}
+	{
+	    font-family: Trebuchet, Calibri, Cambria, Helvetica, Garamond;
+	    font-size: 11pt;
+	    background-color: white;
+	    margin: 2%;
+	    color: black;
+		background-image: url("http://farm3.staticflickr.com/2882/12472042314_9266747771_o.png");
+	    background-repeat: no-repeat;
+	    background-attachment: fixed;
+	    background-position: right bottom;
+	}
 
 h1, h2
-    {
-    text-align: center;
-    text-transform: uppercase;
-    font-family: Garamond;
+	{
+	    text-align: center;
+	    text-transform: uppercase;
+	    font-family: Garamond;
     }
 
 h1,h2,h3
-    {
-    padding: 10px;
+        {
+    	padding: 10px;
     }
 
 h1
     {
-    font-size: 300%;
-    color: white;
-    background-color: #900;
-    text-shadow: -1px -1px white;
+	    font-size: 300%;
+	    color: white;
+	    background-color: #900;
+	    text-shadow: -1px -1px white;
     }
 
 h2
     {
-    font-size: 250%;
+    	font-size: 250%;
     }
 
 h3
     {
-    font size: 200%;
-    text-align: center;
-    font-family: Garamond;
+	    font size: 200%;
+	    text-align: center;
+	    font-family: Garamond;
     }
 
 h4
     {
-    font size: 150%;
-    text-align: left;
-    text-transform: uppercase;
-    font-family: Garamond;
-    padding: 5px;
+	    font size: 150%;
+	    text-align: left;
+	    text-transform: uppercase;
+	    font-family: Garamond;
+	    padding: 5px;
     }
 
 #content
-{
-    width: 75%;
-    max-width: 800px;
-    margin-left: 2%;
-    overflow: hidden;
-}
-
-#layout
-{
-
-}
-
+	{
+	    width: 75%;
+	    max-width: 800px;
+	    margin-left: 2%;
+	    overflow: hidden;
+	}
 
 
 img
-{
-    display: block;
-    margin: auto;
-}
+	{
+	    display: block;
+	    margin: auto;
+	}
 
 hr
 	{
-	border-style:solid;
-	border-color:#900;
-	border-width: 5px;
+		border-style:solid;
+		border-color:#900;
+		border-width: 5px;
 	}
