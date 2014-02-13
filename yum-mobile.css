@@ -100,5 +100,10 @@ img.misc
 
 object
 {
-	display: hidden;
+	display: none;
+}
+
+iframe
+{
+	max-width: 80%;
 }
