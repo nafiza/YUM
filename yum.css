@@ -75,6 +75,23 @@ img
 	margin: auto;
 }
 
+img.dishes
+{
+	margin: 0 auto;
+	max-width: 75%;
+	max-height: 500px;
+	border-color:#900;
+	border-style:dashed;
+	border-width: 2px;
+	
+}
+
+img.misc
+{
+	margin: 0 auto;
+	max-width: 75%;
+}
+
 hr
 {
 	border-style:solid;
