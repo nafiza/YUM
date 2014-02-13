@@ -1,0 +1,104 @@
+@charset "utf-8";
+/* CSS Document */
+
+@font-face
+{
+    font-family: Garamond, Trebuchet, Helvetica;
+}
+
+#content
+{
+	width: 95%;
+	max-width: 480px;
+	margin-left: 2%;
+	overflow: hidden;
+}
+	
+body
+{
+	font-family: Trebuchet, Calibri, Cambria, Helvetica, Garamond;
+	font-size: 10pt;
+	background-color: white;
+	margin: 2%;
+	color: black;
+	background-image: url("https://farm4.staticflickr.com/3799/12485151973_6e63079959_o.png");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: right bottom;
+}
+
+h1, h2
+{
+	text-align: center;
+	text-transform: uppercase;
+	font-family: Garamond;
+}
+
+h1,h2,h3
+{
+	padding: 6px;
+}
+
+h1
+{
+	font-size: 250%;
+	color: white;
+	background-color: #900;
+	text-shadow: -1px -1px white;
+}
+
+h2
+{
+	font-size: 220%;
+}
+
+h3
+{
+	font size: 175%;
+	text-align: center;
+	font-family: Garamond;
+}
+
+h4
+{
+	font size: 150%;
+	text-align: left;
+	text-transform: uppercase;
+	font-family: Garamond;
+	padding: 5px;
+}
+
+hr
+{
+	border-style:solid;
+	border-color:#900;
+	border-width: 5px;
+}
+
+img
+{
+	display: block;
+	margin: auto;
+}
+
+img.dishes
+{
+	margin: 0 auto;
+	max-width: 75%;
+	max-height: 500px;
+	border-color:#900;
+	border-style:dashed;
+	border-width: 2px;
+	
+}
+
+img.misc
+{
+	margin: 0 auto;
+	max-width: 75%;
+}
+
+object
+{
+	display: hidden;
+}
