@@ -9,7 +9,7 @@
 #content
 {
 	width: 95%;
-	max-width: 480px;
+	max-width: 600px;
 	margin-left: 2%;
 	overflow: hidden;
 }
@@ -17,9 +17,8 @@
 body
 {
 	font-family: Trebuchet, Calibri, Cambria, Helvetica, Garamond;
-	font-size: 10pt;
+	font-size: 12pt;
 	background-color: white;
-	margin: 2%;
 	color: black;
 	background-image: url("http://farm4.staticflickr.com/3774/12590625744_8b30f26ea4_o.png");
 	background-repeat: no-repeat;
