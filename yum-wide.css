@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document for wider screens*/
+
+@font-face
+{
+    	font-family: Garamond, Trebuchet, Helvetica;
+}
+
+body
+{
+	font-family: Trebuchet, Calibri, Cambria, Helvetica, Garamond;
+	font-size: 11pt;
+	background-color: white;
+	margin: 0 auto;
+	color: black;
+	background-image: url("https://farm4.staticflickr.com/3799/12485151973_6e63079959_o.png");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: right bottom;
+}
+
+#content
+{
+	width: 75%;
+	max-width: 800px;
+	margin-left: 2%;
+	overflow: hidden;
+	background-color: rgba(255, 255, 255, .5);
+}
