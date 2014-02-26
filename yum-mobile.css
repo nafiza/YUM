@@ -39,7 +39,7 @@ h1,h2,h3
 
 h1
 {
-	font-size: 250%;
+	font-size: 180%;
 	color: white;
 	background-color: #900;
 	text-shadow: -1px -1px white;
@@ -47,19 +47,19 @@ h1
 
 h2
 {
-	font-size: 220%;
+	font-size: 165%;
 }
 
 h3
 {
-	font size: 175%;
+	font size: 145%;
 	text-align: center;
 	font-family: Garamond;
 }
 
 h4
 {
-	font size: 150%;
+	font size: 130%;
 	text-align: left;
 	text-transform: uppercase;
 	font-family: Garamond;
