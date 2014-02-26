@@ -36,8 +36,9 @@ h1, h2
 
 h1,h2,h3,h4
 {
+	width: 95%;
 	padding: 5px;
-	margin-right: 2%;
+	margin: 0 auto;
 }
 
 h1
@@ -70,6 +71,7 @@ h4
 
 hr
 {
+	width: 100%;
 	border-style:solid;
 	border-color:#900;
 	border-width: 5px;
