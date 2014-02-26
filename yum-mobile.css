@@ -24,6 +24,8 @@ body
 	background-attachment: fixed;
 	background-position: right bottom;
 	margin: 0% 1% 0% 1%;
+	padding-left:2px;
+	padding-right:2px;
 }
 
 h1, h2
