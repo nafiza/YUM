@@ -23,6 +23,7 @@ body
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-position: right bottom;
+	margin: 0;
 }
 
 h1, h2
